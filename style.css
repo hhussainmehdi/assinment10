@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+.row{
+
+padding: 23px;
+}
+.row{
+width: fit-content;
+height: fit-content;
+padding-left: 2px;
+font-size: smaller;
+font-weight: 100px;
+
+}
+.div1{
+    display: flex;
+     padding-left:150px;
+      padding-top: 50px; 
+      padding-bottom: 50px;
+       justify-content: space-around;
+        justify-content: space-evenly;
+        justify-content: center;
+}
+
+
+
